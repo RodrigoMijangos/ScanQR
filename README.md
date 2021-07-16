@@ -1,16 +1,10 @@
 # scaffold_providers_app
 
-A new Flutter project.
+A project that implements a QR Scan Functionability for practice and educational propuses. 
+This conatins a QR Code used for test. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To test the app init them and scan the QR code in /lib directory. This return an Image or a text depending on the function used.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This might work with other QR codes but is not tested.
